@@ -19,21 +19,7 @@
 \# **以下为完整列表 ` best.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
 
 ### 如何使用?
-
-#### Aria2:
-
-<details>
-<summary><strong><code>[点击展开] - 查看 Aria2 格式的 Tracker 列表</code></strong></summary>
-</details>
-
-复制 Aria2 格式 Tracker 文件中内容后，粘贴到配置文件 `aria2.conf` 中 `bt-tracker=` 的后面，示例如下：
-``` ini
-bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
-```
-> **注意：** 粘贴前请先删除旧 Tracker 内容，避免格式错误！
-
 ****
-
 #### BitComet (比特彗星):
 
 - **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
