@@ -568,9 +568,6 @@ http://213.159.215.198:6970/announce
 udp://191.101.229.236:1337/announce
 
 http://178.175.143.27/announce
-
-Here is a longer list updated Feb 2016.
-
 udp://p4p.arenabg.ch:1337
 udp://p4p.arenabg.com:1337
 http://bttracker.crunchbanglinux.org:6969/announce
