@@ -1167,6 +1167,7 @@ http://tracker.thepiratebay.org/announce
 http://tracker.tiny-vps.com:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.toolv.com/announce
+http://tracker.torrent.eu.org:451/announce
 http://tracker.torrent.to:2710/announce
 http://tracker.torrentalk.com:2710/announce
 http://tracker.torrentbay.to:6969/announce
@@ -1675,6 +1676,7 @@ https://tracker.srv00.com/announce
 https://tracker.srv00.com:443/announce
 https://tracker.tamersunion.org/announce
 https://tracker.tamersunion.org:443/announce
+https://tracker.torrent.eu.org:451/announce
 https://tracker.torrentsnows.com/announce
 https://tracker.torrentsnows.com:443/announce
 https://tracker.tvgc.win/announce
@@ -2511,6 +2513,7 @@ udp://torrentvpn.club:6990/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tpb.tracker.thepiratebay.org:80/announce
 udp://tr.bangumi.moe:6969/announce
+udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:6666/announce
 udp://tr.cili001.com:8070/announce
 udp://tr2.ysagin.top:2710/announce
@@ -2813,6 +2816,7 @@ udp://u.wwwww.wtf:1/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://uabits.today:6990/announce
+udp://udp.trackarr.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://ulfbrueggemann.no-ip.org:6969/announce
